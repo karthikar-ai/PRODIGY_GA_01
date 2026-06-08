@@ -27,6 +27,20 @@ Success comes from hard work, dedication, and continuous learning.
 * Implemented text generation using Python
 * Worked with Hugging Face Transformers
 * Gained hands-on experience in Generative AI
+* ## Project Screenshots
+
+### VS Code Implementation
+
+![VS Code Screenshot](Screenshot%202026-06-08%20105532.png)
+
+### GPT-2 Output
+
+![GPT-2 Output](Screenshot%202026-06-08%20105626.png)
+
+### GitHub Repository
+
+![GitHub Repository](Screenshot%202026-06-08%20105704.png)
+
 
 ## Author
 
